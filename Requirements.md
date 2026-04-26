@@ -42,8 +42,6 @@ The component must include:
 
 - [x] Logical tab order
 
-- [ ] Sufficient color contrast (if applicable)
-
 - [x] Replacing <div> elements with semantic equivalents where appropriate
 
 - [x] Removing inaccessible patterns (e.g., clickable <div>s)
@@ -153,4 +151,4 @@ App.jsx must:
 
 ### 4. Working Demo
 
-- [ ] Deployed to GitHub Pages using:
+- [x] Deployed to GitHub Pages using:
