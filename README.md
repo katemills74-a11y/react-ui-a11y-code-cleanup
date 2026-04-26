@@ -145,7 +145,7 @@ This project shows how targeted refactoring can quickly improve usability, acces
 ## Live Demo
 
 View the project here:
-https://katemills74-a11y.github.io/ //add GH Pages URL
+https://katemills74-a11y.github.io/react-ui-a11y-code-cleanup/
 
 ## 📬 Want Something Similar?
 
