@@ -42,9 +42,9 @@ The component must include:
 
 - [x] Logical tab order
 
-- [x] Replacing <div> elements with semantic equivalents where appropriate
+- [x] Replacing `<div>` elements with semantic equivalents where appropriate
 
-- [x] Removing inaccessible patterns (e.g., clickable <div>s)
+- [x] Removing inaccessible patterns (e.g., clickable `<div>`s)
 
 ### 3. Code Refactoring
 
